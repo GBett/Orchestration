@@ -247,7 +247,7 @@ NB. Time show here is as per the time of creation of the service so they may dif
 
 # Contact Information 
 
-If you have any question or contributions and support, please email me at [ratemomishael@gmail.com](gilbertkalo.kalo@gmail.com)
+If you have any question or contributions and support, please email me at [gilbertkalo.kalo@gmail.com](gilbertkalo.kalo@gmail.com)
 
 
 # Licence
