@@ -28,10 +28,10 @@ Make sure that you have the following installed:
 
 
  # Technologies used
-    * BackEnd: * Nodes 
-    * FontEnd:  React 
-    * Database * Mongo
-    * Docker containerization
+    - BackEnd: - Nodes 
+    - FontEnd:  React 
+    - Database - Mongo
+    - Docker containerization
 
  # Using Docker Compose
   #   Procedure.
